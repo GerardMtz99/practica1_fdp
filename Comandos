@@ -1,0 +1,11 @@
+Crear archivo mkdir
+cd- entrar a archivos 
+cd .. regresar o entrar a archivo padre
+ls enlistar archivos recien agregados
+rm- remover archivos
+touch- crear archivos.txt
+echo "" - escribir dentro de archvio
+cat- ver los contenidos de cualquier archivo
+cp- copiar archvios
+clean- limpiar espacio para trabajar
+-name tareas ver todos los archivos creados
