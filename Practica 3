@@ -1,0 +1,51 @@
+1. Dado un precio calcular su descuento, considerando que si su precio es mayor a $100, el  descuento será a 10% de otro modo descontar solo un 2%. 
+
+Entrada: Precio
+Salida: Descuento correcto
+
+1. Leer  precio 
+2. En caso de ser mayor a $100/ precio > $100 
+3. Aplicar un descuento del 10%
+4. Dividiendo el precio entre 100 multiplicando por 10%
+5. En caso de precio < $100
+7. Dividir el precio entre 100 y multiplicar por el 2%
+8.De tal modo que si;
+
+Precio > $100 = 10%
+Precio < $100 = 2%
+
+
+2. Un algoritmo que leea 2 números y calcule su resta, suma, multiplicación y división de eso 2 num.
+
+Entrada: num 1, num 2
+Salida: suma, resta, división y multiplicación de ambos num 
+Num 3 (suma)
+Num 4 (Resta)
+Num 5( multiplicacion)
+Num 6 (Division)
+
+1. Leer num1 y num2
+2. Num 1 + num 2 = Num 3
+3. Num 1 + num 2 = Num 4
+4. Num 1 + Num 2 = Num 5
+5. Num 1 + Num 2 = Num 6
+6. Print Num 3, num 4, num 5, num 6
+6 Obteniendo el numero 3, 4, 5, 6; que a su vez son la suma, resta, multiplicación y división.
+
+3. Leer 3 num que van a denotar una fecha de día, mes y año y verificar si es una fecha valida. 
+
+Entrada: num 1, num 2, num 3
+Salida: Si la fecha es válida
+
+1. Num1 = dia
+2. Num2 = Mes
+3. Num 3 = Año
+4. Num1 [1 - 31]
+5. Num2 [1 - 12]
+6. Num3 = Debe contener 4 digitos
+
+Restringir
+
+7. Si mes es num impar entonces —> num1 puede tomar valor de [1 -31
+8. Si mes es 2 entonces —> num1 puede tomar valor de [1 - 28] <—> año es múltiplo de 4
+9. Si mes es par diferente de 2 —> num1 puede tomar valor de [1 - 30]
